@@ -24,5 +24,10 @@ bundle size slightly; it might improve further as RxJS version 8 work continues.
 
 I'm curious if there is any smaller or simpler library than RxJS, suitable for
 small apps of this nature. I’ve looked around at the competing observable
-libraries from a few years ago (most, Xstream, etc.) and they all appear to be
+libraries from a few years ago (listed below) and they all appear to be
 no longer actively developed.
+
+* [Most](https://github.com/cujojs/most)
+* [xstream](https://staltz.github.io/xstream/)
+* [Kefir](https://kefirjs.github.io/kefir/#)
+* [Bacon.js](https://baconjs.github.io/)
