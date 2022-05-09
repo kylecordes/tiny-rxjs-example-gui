@@ -192,10 +192,10 @@ rollup@^2.59.0:
   optionalDependencies:
     fsevents "~2.3.2"
 
-rxjs@^7.5.5:
-  version "7.5.5"
-  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-7.5.5.tgz#2ebad89af0f560f460ad5cc4213219e1f7dd4e9f"
-  integrity sha512-sy+H0pQofO95VDmFLzyaw9xNJU4KTRSwQIGM6+iG3SypAtCiLDzpeG8sJrNCWn2Up9km+KhkvTdbkrdy+yzZdw==
+rxjs@^8.0.0-alpha.3:
+  version "8.0.0-alpha.3"
+  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-8.0.0-alpha.3.tgz#8d0ccb33edf7e610462ff5fd917980688ecc5735"
+  integrity sha512-zEogsNPN2z3NMwi7+ByszR+Jq250w0MDPdkiw55G0qVs1wfc0KdEQ5LQzuMFvcqPeLO53mkwGZk3E3D8X/E3bg==
   dependencies:
     tslib "^2.1.0"
 
